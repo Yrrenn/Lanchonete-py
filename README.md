@@ -1,2 +1,3 @@
 # Pojeto-POO.py
-Projeto simples em python
+Projeto simples orientado a objeto em python
+
