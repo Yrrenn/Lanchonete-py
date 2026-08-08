@@ -1,0 +1,7 @@
+Cliente: Carlos
+Pedido:
+- Hambúrguer - R$ 20.00
+- Batata Frita - R$ 12.00
+- Suco - R$ 10.00
+Total: R$ 42.00
+--------------------------------
